@@ -1,0 +1,56 @@
+#detailimg {
+	width: 90%;
+	max-height: auto;
+	margin: 20px;
+	padding: 20px;
+	
+}
+
+h2 {
+	margin: 20px;
+	padding-top: 20px;
+}
+
+p {
+	margin: 5px;
+	padding: 5px;
+
+}
+
+ .weatherimg {
+	max-height: 100px;
+	max-width: auto;
+} 
+
+
+
+.weather {
+	display: flex;
+	justify-content: center;
+}
+
+.description {
+	padding: 0px 40px;
+	
+}
+
+#wbutton {
+	padding: 5px;
+	margin: 15px;
+}
+
+
+.day {
+	width: 20%;
+	max-height: 200px;
+}
+
+#scaletoggle {
+	font-size: 20px;
+	 
+    bottom: 3px;
+   horizontal-align: bottom;
+   vertical-align: center;
+	
+
+
